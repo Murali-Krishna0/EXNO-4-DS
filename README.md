@@ -24,7 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
- # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+    # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 import pandas as pd
 import numpy as np
 import seaborn as sns
